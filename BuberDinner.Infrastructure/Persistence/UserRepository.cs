@@ -15,10 +15,5 @@ namespace BuberDinner.Infrastructure.Persistence
         {
             return _users.SingleOrDefault(u => u.Email == email);
         }
-
-        public void Add(User user)
-        {
-            _users.Add(user);
-        }
     }
 }

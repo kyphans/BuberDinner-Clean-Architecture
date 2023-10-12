@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lfogarqBmJC0liJ0kd49kkr/ipffk345oBsjkCMCHYYcr5bBMugpXTJxjXRK9dl6/S0eZST2EP1tmyKOfzmrUw==",
+  "dgSpecHash": "4Rwuwq9L1Js3ZQm3i4QfVMRBMERj1xt1d0uFpM5aIVykKKD5iMEXlLVojFnZTvjeZjt0ifyBlpkz92uQL+O67w==",
   "success": true,
   "projectFilePath": "C:\\Users\\pqky\\source\\repos\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pqky\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\pqky\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\pqky\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\pqky\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\pqky\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

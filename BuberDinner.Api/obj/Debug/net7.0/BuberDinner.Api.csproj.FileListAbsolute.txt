@@ -44,3 +44,5 @@ C:\Users\pqky\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsof
 C:\Users\pqky\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\pqky\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\pqky\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pqky\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\pqky\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\MediatR.Contracts.dll
